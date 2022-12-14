@@ -1,0 +1,16 @@
+*{
+    margin:0;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+main{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  /*   background-image:url('/public/images/logo-mercado-liebre.svg') ; */
+}
+.header{
+    background-color: #EAC926 ;
+    
+
+}
