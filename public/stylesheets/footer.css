@@ -1,0 +1,23 @@
+.footer{
+
+}
+.footer__article{
+
+}
+.footer__article h4{
+   text-align: center;
+   font-family: "Roboto";
+
+}
+.footer__article p{
+  padding: 15px;
+  text-align: center;
+  padding-top: 0;
+
+
+}
+.footer__article h1{
+    margin-left: 45% ;
+    color: var(--colorCeleste)
+}
+
