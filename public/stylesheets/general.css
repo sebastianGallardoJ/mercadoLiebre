@@ -5,12 +5,15 @@ li{
     list-style: none;
 }
 p{
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-family:"Roboto";
+    font-size: 12px;
+    
+
 }
-main{
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
-  /*   background-image:url('/public/images/logo-mercado-liebre.svg') ; */
+h3{
+    font-family: "Roboto";
 }
+
 .header{
     background-color: #EAC926 ;
     
