@@ -4,18 +4,30 @@
 li{
     list-style: none;
 }
-p{
+span{
     font-family:"Roboto";
     font-size: 12px;
+    color: var(--colorVerde);
     
 
 }
 h3{
     font-family: "Roboto";
+    font-size:16px ;
+}
+h5{
+     width: 20px;
+    color: var(--colorVerde);
+    border-radius: 20px;
+    text-align: center;
+    border: solid 1px var(--colorVerde) ;
 }
 
 .header{
     background-color: #EAC926 ;
-    
+ 
 
+}
+body{
+    background-color: var(--grisOscuro) ;
 }

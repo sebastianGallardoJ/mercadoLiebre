@@ -69,3 +69,15 @@ ul{
     text-decoration: none;
     font-size: 12px;
 }
+
+@media (min-width:361px){
+    .header__image__burger-menu{
+        display: none;
+    }
+    
+
+}
+
+@media (min-width:769px){
+    
+}
