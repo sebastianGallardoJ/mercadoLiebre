@@ -1,6 +1,4 @@
-.header{
 
-}
 
 
 .header__image{
@@ -22,9 +20,7 @@
     /* text-align: center; */
     
 }
-.header__image__div{
-     
-}
+
 .header__image__div__search{
     width: 60%;
     background-color:whitesmoke ;
