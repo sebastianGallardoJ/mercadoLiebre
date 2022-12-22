@@ -10,4 +10,4 @@ app.get('/ofertas',(req,res)=> res.sendFile(path.resolve(__dirname,'views','ofer
 
 
 
-app.listen(3030,()=> "servidor levantado en puerto 3030")
+app.listen(3030,( ) => "servidor levantado en puerto 3030")

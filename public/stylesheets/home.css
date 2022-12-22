@@ -7,9 +7,7 @@ body{
     color: var(--colorGrisOscuro);
    
 }
-.main__section{
-  
-}
+
 .main__section__article{
     margin:10px;
 
@@ -22,9 +20,7 @@ body{
 .main__section__article__imagen--prod{
     width: 100%;
 }
-.header__image__div{
-    
-}
+
 .main__section__article--info{
 width: 100%;
 padding-bottom: 14px;
@@ -48,7 +44,5 @@ background-color: white;
     }
 }
 
-@media (min-width:){
 
-}
 
