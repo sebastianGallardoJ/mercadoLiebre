@@ -56,7 +56,7 @@
     margin-left: 50px ;
 }
 .header__nav{
-    
+    display: none;
 }
 ul{
     padding: 0;
@@ -71,10 +71,14 @@ ul{
 }
 
 @media (min-width:361px){
+
+    .header__nav{
+        display: block;
+    }
     .header__image__burger-menu{
         display: none;
     }
-    
+
 
 }
 
