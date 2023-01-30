@@ -1,0 +1,48 @@
+
+
+.main__registro__div label{
+   font-family: "Roboto";
+   font-size: 13px;
+}
+.main__registro__section{
+    display: flex;
+    flex-direction: column;
+width: 100%;
+background-color:  var(--colorGrisclaro);
+padding: 10px;
+}
+.div__form{
+     margin-bottom: 20px;
+     width: 100%;
+}
+.div__form input{
+    padding: 6px;
+    width: 70%;
+    border: 1px solid silver;
+    border-radius: 3px;
+}
+
+.div__form__perfil{
+    display: flex;
+    flex-direction: column;
+  
+}
+.div__form__intereses{
+     display: flex;
+     flex-direction: column; 
+}
+.div__form__fecha{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.div__form__fecha input{
+    width: 20%;
+
+}
+.buttons{
+    background-color: var(--colorCeleste);
+    color: aliceblue;
+    border: 1px solid blue ;
+    border-radius: 3px;
+}

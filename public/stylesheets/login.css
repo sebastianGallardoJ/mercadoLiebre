@@ -1,0 +1,17 @@
+.main__login{
+    text-align: center;
+}
+
+
+.main__form__login--divs input{
+    width: 100%;
+
+}
+.main__form__login--divs{
+    display: flex;
+    width: 100%;
+
+ text-align: center;
+   
+
+}
